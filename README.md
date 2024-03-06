@@ -1,6 +1,6 @@
-- 👋 Hello There, I’m @francapali
-- 👀 I’m interested in game design/development
-- 🌱 I’m currently learning computer science at UNIBA (Italy)
+- 👋 Heya everyone, I’m @francapali
+- 👀 I’m into game design/development
+- 🌱 I’m currently STEM gurl in Bari
 - 📫 How to reach me: @francapali on ig
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: my first love was blind riku from kingdom hearts 358/2 days
