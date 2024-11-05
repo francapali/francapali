@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://via.placeholder.com/1000x200.png?text=Welcome+to+My+GitHub+Profile!" alt="Banner - Welcome to My GitHub Profile" />
-</p>
 
 <h1 align="center">heya! @francapali here! 👋</h1>
 <h3 align="center">👩‍💻 Full-Time BCS Student | 🚀 Game Design Enthusiast </h3>
