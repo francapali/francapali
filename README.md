@@ -17,7 +17,7 @@
 ### 👩🏻‍🏫 About Me
 
 - 🎓 **BCS Student** at University of Bari "Aldo Moro"
-- 🌱 Currently focused on a **Human Computer Interaction** project.
+- 🌱 Currently focused on a **VideoGame** project.
 - 💬 **Ik smtng 'bout**: C, C++, Java, MySql, MATLAB.
 - 🧩 **Hobbiesssssssssss**: KH 'cause I'm boring, Star Wars 'cause I'm boring, again, dunno actually, true crime podcasts?????
 
