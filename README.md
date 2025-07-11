@@ -49,6 +49,7 @@
 ### 🌟 Featured Projects
 
 - [**Hymn To Ninkasi**](https://github.com/francapali/hymntoninkasi_map_b_2024) - Hymn to Ninkasi is a Java text-based game in italian, made in team as University project.
+- [**minomino**](https://github.com/francapali/minomino) - minomino is a Godot turn-based game, made in team as University project
 
 ---
 
