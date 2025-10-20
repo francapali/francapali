@@ -17,21 +17,9 @@
 ### 👩🏻‍🏫 About Me
 
 - 🎓 **BCS Student** at University of Bari "Aldo Moro"
-- 🌱 Currently focused on a **VideoGame** project.
-- 💬 **Ik smtng 'bout**: C, C++, Java, MySql, MATLAB.
-- 🧩 **Hobbiesssssssssss**: KH 'cause I'm boring, Star Wars 'cause I'm boring, again, dunno actually, true crime podcasts?????
-
----
-
-<!-- Skills Section -->
-### 🔧 Tech Stack
-
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white&style=flat-square)
-
+- 🌱 Currently focused on my thesis in Videogame Development.
+- 💬 **Ik smtng 'bout**: C, C++, Java, MySql, MATLAB, Python, GDScript nd now Next.js.
+- 🧩 **Hobbies**: should I? Is true crime podcasts worth your reading time?
 
 ---
 
@@ -48,8 +36,9 @@
 <!-- Featured Repos Section -->
 ### 🌟 Featured Projects
 
-- [**Hymn To Ninkasi**](https://github.com/francapali/hymntoninkasi_map_b_2024) - Hymn to Ninkasi is a Java text-based game in italian, made in team as University project.
-- [**minomino**](https://github.com/francapali/minomino) - minomino is a Godot turn-based game, made in team as University project
+- [**Hymn To Ninkasi**](https://github.com/francapali/hymntoninkasi_map_b_2024) - Hymn to Ninkasi is a Java text-based game in italian, made for Advanced Programming Methods final exam.
+- [**minomino**](https://github.com/francapali/minomino) - minomino is an """action""" turn-based game, made for the Videogame Development final exam.
+- [**SOAP!**](https://github.com/rebythelion/SOAP-game) - "Soap!" is an arcade game made for the Global Game Jam 2025.
 
 ---
 
