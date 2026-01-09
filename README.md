@@ -1,6 +1,6 @@
 
 <h1 align="center">heya! @francapali here! 👋</h1>
-<h3 align="center">👩‍💻 Full-Time BCS Student | 🚀 Game Design Enthusiast </h3>
+<h3 align="center">👩‍💻 Full-Time MCS Student | 🚀 Game Design Enthusiast </h3>
 
 <!-- Social Links -->
 <p align="center">
@@ -16,7 +16,7 @@
 <!-- About Me Section -->
 ### 👩🏻‍🏫 About Me
 
-- 🎓 **BCS Student** at University of Bari "Aldo Moro"
+- 🎓 **MCS Student** at University of Bari "Aldo Moro"
 - 🌱 Currently focused on my thesis in Videogame Development.
 - 💬 **Ik smtng 'bout**: C, C++, Java, MySql, MATLAB, Python, GDScript nd now Next.js.
 - 🧩 **Hobbies**: should I? Is true crime podcasts worth your reading time?
